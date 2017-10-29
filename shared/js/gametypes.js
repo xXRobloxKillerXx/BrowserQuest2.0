@@ -83,13 +83,13 @@ Types = {
         CODER: 55,
         
         // Weapons
-        SWORD1: 60,
-        SWORD2: 61,
-        REDSWORD: 62,
-        GOLDENSWORD: 63,
-        MORNINGSTAR: 64,
-        AXE: 65,
-        BLUESWORD: 66
+        SWORD1: 600,
+        SWORD2: 610,
+        REDSWORD: 620,
+        GOLDENSWORD: 630,
+        MORNINGSTAR: 640,
+        AXE: 650,
+        BLUESWORD: 660
     },
     
     Orientations: {
